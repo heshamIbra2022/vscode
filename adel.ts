@@ -1,0 +1,1 @@
+var d:number=0;
